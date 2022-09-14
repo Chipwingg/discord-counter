@@ -7,6 +7,8 @@ I made this script because I was lazy, and wanted to stop making errors when pla
 
 If you don't know what that is, here is a discord bot that makes playing this game very easy. [Here](https://github.com/CircuitSacul/Minigames) is the github repo, and [here](https://discord.gg/dGAzZDaTS9) is the developers discord server.
 
+__I am not responsible if your discord account gets banned!__
+
 # Requirements
 I wrote/tested this on Ubuntu 21.10, but it should work on most linux platforms. Let me know if you use it on another platform without needing to edit the script. 
 
